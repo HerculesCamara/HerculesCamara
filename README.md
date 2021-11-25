@@ -2,10 +2,10 @@
   <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="">
 <hr>
 
-  <h1>Hi 👋 , I'm Hércules Câmara</h1>
+  <h1>Hi 👋, I'm Hércules Câmara</h1>
   <p>👨‍🎓 A little about me, I'm a Web Designer and Front-end Developer, I'm from Brazil.</p> 
   <p>👩‍💻 I'm a Computer Science student at UFMT, I'm a freelancer and I produce projects in my spare time.</p>
-  <p>💡 Todo dia é dia para recomeçar e evoluir.</p>
+  <p>💡 Every day is a day to start over and evolve.</p>
   <br>
   
   <h2>My skills</h2>
@@ -45,6 +45,6 @@
 <a target="_blank" href="https://daniel-kitanaxi-filipe.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt=""></a> -->
 <br>
   
-  ![Snake animation](https://github.com/DanielKitanaxiFilipe/DanielKitanaxiFilipe/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/HerculesCamara/HerculesCamara/blob/output/github-contribution-grid-snake.svg)
   
 </div>
