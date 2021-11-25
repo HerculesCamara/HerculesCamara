@@ -38,7 +38,7 @@
  
   <h2>My social networks</h2>
 <a target="_blank" href="https://www.instagram.com/herculescamara_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a> 
-<a target="_blank" href="https://www.linkedin.com/in/daniel-779b9b18b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
+<a target="_blank" href="https://www.linkedin.com/in/herculescamara/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
 <!-- <a href="https://www.facebook.com/profile.php?id=100050680572102"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt=""></a> 
 <a target="_blank" href="https://www.behance.net/danielfilipw"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt=""></a>
 <a target="_blank" href="https://www.youtube.com/channel/UCWFI5HN35DC7kw-D4GZ1d4w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt=""></a>
