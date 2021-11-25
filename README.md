@@ -45,6 +45,6 @@
 <a target="_blank" href="https://daniel-kitanaxi-filipe.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt=""></a> -->
 <br>
   
-  ![Snake animation](https://github.com/HerculesCamara/HerculesCamara/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DanielKitanaxiFilipe/DanielKitanaxiFilipe/blob/output/github-contribution-grid-snake.svg)
   
 </div>
