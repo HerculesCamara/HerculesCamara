@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="">
 <hr>
 
-  <h1>Hi 👋, I'm Hércules Câmara</h1>
+  <h1>Hi! 👋, I'm Hércules Câmara</h1>
   <p>👨‍🎓 A little about me, I'm a Web Designer and Front-end Developer, I'm from Brazil.</p> 
   <p>👩‍💻 I'm a Computer Science student at UFMT, I'm a Front-end developer at Hit Digital and I produce projects in my spare time.</p>
   <p>💡 Every day is a day to start over and evolve.</p>
