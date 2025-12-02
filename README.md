@@ -28,12 +28,12 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="">
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="">
-  <div align="center" ><br>
+  <!-- <div align="center" ><br>
     <a href="https://github.com/HerculesCamara" style="text-decoration: none;">
     <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api?username=HerculesCamara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerculesCamara&layout=compact&langs_count=7&theme=tokyonight"/>
     </a>
-  </div>
+  </div>-->
   <br>
  
   <h2>My social networks</h2>
